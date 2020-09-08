@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "98048635657",
+    "firebase_url": "https://cwumovies.firebaseio.com",
+    "project_id": "cwumovies",
+    "storage_bucket": "cwumovies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98048635657:android:b7ec880fcc25dd071359d8",
+        "android_client_info": {
+          "package_name": "com.cwu.chillwithus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98048635657-3s0c5vvthtcrg5cp44k8sj5pptlc022q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm519IJ76vMmFl91oVCAwmnqA5OHDisCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98048635657-3s0c5vvthtcrg5cp44k8sj5pptlc022q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
